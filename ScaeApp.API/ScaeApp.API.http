@@ -1,0 +1,6 @@
+@ScaeApp.API_HostAddress = http://localhost:5215
+
+GET {{ScaeApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
